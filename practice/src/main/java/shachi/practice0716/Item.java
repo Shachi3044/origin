@@ -1,6 +1,6 @@
-package shachi.practice0716;
-
-public class Item {
-	String name;
-	int price = 100;
-}
+//package shachi.practice0716;
+//
+//public class Item {
+//	String name;
+//	int price = 100;
+//}

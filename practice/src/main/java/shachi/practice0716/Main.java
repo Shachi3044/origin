@@ -1,8 +1,8 @@
-package shachi.practice0716;
-
-public class Main {
-
-	public static void main(String[] args) {
+//package shachi.practice0716;
+//
+//public class Main {
+//
+//	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
 		//コンパイルエラーにならない
 //		int[] a;
@@ -44,12 +44,19 @@ public class Main {
 //		}
 //		System.out.println(total);
 
-		String[][] array = {{"A","B"}, {"A",null,"D"}, {"C", "D", "E"}};
-		int total = 0;
-		for(String[] tmp : array) {
-			total += tmp.length;
-		}
-		System.out.println(total);
-	}
-
-}
+//		String[][] array = {{"A","B"}, {"A",null,"D"}, {"C", "D", "E"}};
+//		int total = 0;
+//		for(String[] tmp : array) {
+//			total += tmp.length;
+//		}
+//		System.out.println(total);
+		
+//		Sample .num = 10;
+//		Sample s = new Sample();
+//		Sample s2 = new Sample();
+//		s.num += 10;
+//		s2.num = 30;
+//		System.out.println(Sample.num);
+//	}
+//
+//}
